@@ -1,0 +1,18 @@
+{
+  "name": "lognode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loginNode.js",
+  "dependencies": {
+    "alert-node": "^1.2.5",
+    "js-alert": "^1.0.4",
+    "mongodb": "^3.2.7",
+    "popups": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
